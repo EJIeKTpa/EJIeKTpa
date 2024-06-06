@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&width=500&lines=Hi+there+👋..)](https://git.io/typing-svg)
 
 <!--
-## 🙋‍♂️ About Me
+🙋‍♂️ About Me
 
 😄 Kseniya 
 **    
