@@ -1,16 +1,18 @@
-## Hi there 👋
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&width=500&lines=Hi+there+👋..)](https://git.io/typing-svg)
 
 <!--
-**EJIeKTpa/EJIeKTpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ About Me
 
-Here are some ideas to get you started:
+😄 Kseniya 
+**    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Projects:**
+- soon will be added
+
+🛠️ **Skills:**
+- **Languages:** Java, SQL, HTML, CSS, JavaScript, Python 
+- **Frameworks:** Spring, Hibernate
+- **Libraries:** JSON, Log4j, jUnit, Apache, Lombok
+- **Tools:** Postman, GitHub, Maven, Gradle, Swagger,Bash
+- **Deployment:** Docker, Kubernetes,
