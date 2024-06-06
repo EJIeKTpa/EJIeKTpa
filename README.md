@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C44F7&random=false&width=435&lines=Hi+there+👋.+I'm Kseniya+Java Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C44F7&random=false&width=435&lines=Hi+there+👋.+I'm+Kseniya+Java Developer)](https://git.io/typing-svg)
 
 ##
 🙋‍♂️ About Me
